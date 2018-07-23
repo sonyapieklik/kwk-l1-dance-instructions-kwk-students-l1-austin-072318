@@ -1,4 +1,5 @@
 
 # Code your methods below
-def lower_body
+def proper_stance
+  
   
