@@ -32,4 +32,8 @@ def bob_the_reins
   puts "Do"
 end
 
+def bust_a_move
+  puts "Be cool and be snazzy"
+end
+
 
