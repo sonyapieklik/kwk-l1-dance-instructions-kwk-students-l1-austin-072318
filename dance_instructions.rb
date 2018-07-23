@@ -25,8 +25,10 @@ Raise right forearm so that it points straight up, and whip it in small circles 
 end
 
 def bob_the_reins
-  puts "Bob"
+  puts "Hold"
   puts "Cross"
+  puts "Lift"
+  puts "Do"
   
 
 
