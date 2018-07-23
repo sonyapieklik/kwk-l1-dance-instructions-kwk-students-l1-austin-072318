@@ -27,4 +27,6 @@ end
 
 starting_stance
 
+skip_step_left
+
 
