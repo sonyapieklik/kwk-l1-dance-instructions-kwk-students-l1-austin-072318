@@ -11,7 +11,7 @@ def base_footwork
 def skip_step(name)
   puts "Lower left foot to the ground"
   puts "Bounce left foot back up slightly, kicking it a few inches back"
-Left, Right, Left and Left
+  puts "Left, Right, Left and Left"
 end
 def skip_step_right 
   puts "Lower right foot to the ground
