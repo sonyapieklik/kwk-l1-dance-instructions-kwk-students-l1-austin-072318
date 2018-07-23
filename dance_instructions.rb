@@ -16,5 +16,8 @@ def skip_step_right
 Bounce right foot back up slightly, kicking it a few inches back
 Right, Left, Right and Right"
 def lasso 
-  ""
+  "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left.
+Lift right arm up and point right elbow diagonally to the right.
+Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well.
+"
   
