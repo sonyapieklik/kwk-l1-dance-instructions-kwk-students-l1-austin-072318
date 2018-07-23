@@ -12,4 +12,9 @@ Bounce left foot back up slightly, kicking it a few inches back
 Left, Right, Left and Left
 "
 def skip_step_right 
+  puts "Lower right foot to the ground
+Bounce right foot back up slightly, kicking it a few inches back
+Right, Left, Right and Right"
+def lasso 
+  ""
   
