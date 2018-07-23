@@ -19,9 +19,10 @@ Bounce right foot back up slightly, kicking it a few inches back
 Right, Left, Right and Right"
 end
 def lasso 
-  "Start"
-Lift 
-Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well."
+  puts "Start"
+puts "Lift"
+puts "Raise" 
+puts "Do"
 end
 
 def bob_the_reins
